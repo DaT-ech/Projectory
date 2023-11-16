@@ -5,6 +5,6 @@ spring:
     password: ${PROD_DB_PASSWORD}
     name: Projectory
 
-sql:
-  init:
-    mode: always
+#sql:
+  #init:
+    #mode: always
